@@ -1,8 +1,6 @@
-# Proyecto_PV
+# Proyecto de Punto de Venta (POS)
 
 ---
-
-# Proyecto de Punto de Venta (POS)
 
 ## Descripción
 Este proyecto es un sistema de punto de venta (POS) desarrollado con Svelte para gestionar ventas, inventario y generar reportes para negocios pequeños y medianos.
